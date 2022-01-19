@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Maxzby Blog</title>
+  <title>Maxzby blog</title>
+  <icon>https://www.gravatar.com/avatar/e1dd2b392bd96e2cc85768e62c0d6ad6</icon>
+  <subtitle>testblog</subtitle>
+  <link href="https://www.zbyfwq.xyz/atom.xml" rel="self"/>
   
-  <subtitle>永远划水</subtitle>
-  <link href="http://maxzby.gq/atom.xml" rel="self"/>
-  
-  <link href="http://maxzby.gq/"/>
-  <updated>2022-01-18T11:08:43.235Z</updated>
-  <id>http://maxzby.gq/</id>
+  <link href="https://www.zbyfwq.xyz/"/>
+  <updated>2022-01-19T04:07:14.633Z</updated>
+  <id>https://www.zbyfwq.xyz/</id>
   
   <author>
     <name>Maxzby</name>
-    
+    <email>3340492546@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>重新修建网站</title>
-    <link href="http://maxzby.gq/2022/01/18/%E9%87%8D%E6%96%B0%E4%BF%AE%E5%BB%BA%E7%BD%91%E7%AB%99/"/>
-    <id>http://maxzby.gq/2022/01/18/%E9%87%8D%E6%96%B0%E4%BF%AE%E5%BB%BA%E7%BD%91%E7%AB%99/</id>
+    <link href="https://www.zbyfwq.xyz/post/4c6caf67.html"/>
+    <id>https://www.zbyfwq.xyz/post/4c6caf67.html</id>
     <published>2022-01-18T11:08:43.000Z</published>
-    <updated>2022-01-18T11:08:43.235Z</updated>
+    <updated>2022-01-19T04:07:14.633Z</updated>
     
     
     
@@ -30,22 +30,31 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://maxzby.gq/2022/01/18/hello-world/"/>
-    <id>http://maxzby.gq/2022/01/18/hello-world/</id>
-    <published>2022-01-18T10:55:04.523Z</published>
-    <updated>2022-01-18T10:55:04.523Z</updated>
+    <title>GitHub Pages and Gitee Pages</title>
+    <link href="https://www.zbyfwq.xyz/post/bbbce974.html"/>
+    <id>https://www.zbyfwq.xyz/post/bbbce974.html</id>
+    <published>2020-08-27T09:53:22.000Z</published>
+    <updated>2020-08-29T10:31:36.123Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <content type="html"><![CDATA[<h2 id="网站速度访问"><a href="#网站速度访问" class="headerlink" title="网站速度访问"></a>网站速度访问</h2><h3 id="国内"><a href="#国内" class="headerlink" title="国内"></a>国内</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">国内推荐使用 <span class="string">"https://maxzby.gitee.io"</span>访问</span><br><span class="line">国内使用Gitee Pages提供服务，访问效果极佳</span><br><span class="line">但是国内不是每天同步，（毕竟两个不一样的服务器，想较快看文章优先海外</span><br></pre></td></tr></tbody></table></figure><p>国内优点：<br>访问速度快 免服务器 稳定<br>缺点：<br>同步文章速度慢（手动同步</p><h3 id="海外"><a href="#海外" class="headerlink" title="海外"></a>海外</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">海外推荐使用 <span class="string">"https://zbyfwq.xyz"</span> 访问</span><br><span class="line">已在cf开启speed，国内访问效果改善</span><br><span class="line">海外使用Github Pages提供服务，表现一般般</span><br><span class="line">秒同步文章</span><br></pre></td></tr></tbody></table></figure><p>海外优点：<br>秒同步文章 免服务器<br>缺点：<br>访问速度一般般 不稳定</p><h3 id="后文"><a href="#后文" class="headerlink" title="后文"></a>后文</h3><span id="more"></span><p><a href="https://maxzby.gitee.io/">国内（推荐）</a></p><p><a href="https://zbyfwq.xyz/">海外</a></p><p>这是第一次使用hexo发表文章<br>不是很完美</p>]]></content>
     
     
+    <summary type="html">&lt;h2 id=&quot;网站速度访问&quot;&gt;&lt;a href=&quot;#网站速度访问&quot; class=&quot;headerlink&quot; title=&quot;网站速度访问&quot;&gt;&lt;/a&gt;网站速度访问&lt;/h2&gt;&lt;h3 id=&quot;国内&quot;&gt;&lt;a href=&quot;#国内&quot; class=&quot;headerlink&quot; title=&quot;国内&quot;&gt;&lt;/a&gt;国内&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;国内推荐使用 &lt;span class=&quot;string&quot;&gt;&quot;https://maxzby.gitee.io&quot;&lt;/span&gt;访问&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;国内使用Gitee Pages提供服务，访问效果极佳&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;但是国内不是每天同步，（毕竟两个不一样的服务器，想较快看文章优先海外&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;国内优点：&lt;br&gt;访问速度快 免服务器 稳定&lt;br&gt;缺点：&lt;br&gt;同步文章速度慢（手动同步&lt;/p&gt;
+&lt;h3 id=&quot;海外&quot;&gt;&lt;a href=&quot;#海外&quot; class=&quot;headerlink&quot; title=&quot;海外&quot;&gt;&lt;/a&gt;海外&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;海外推荐使用 &lt;span class=&quot;string&quot;&gt;&quot;https://zbyfwq.xyz&quot;&lt;/span&gt; 访问&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;已在cf开启speed，国内访问效果改善&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;海外使用Github Pages提供服务，表现一般般&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;秒同步文章&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;海外优点：&lt;br&gt;秒同步文章 免服务器&lt;br&gt;缺点：&lt;br&gt;访问速度一般般 不稳定&lt;/p&gt;
+&lt;h3 id=&quot;后文&quot;&gt;&lt;a href=&quot;#后文&quot; class=&quot;headerlink&quot; title=&quot;后文&quot;&gt;&lt;/a&gt;后文&lt;/h3&gt;</summary>
     
+    
+    
+    
+    <category term="GitHub" scheme="https://www.zbyfwq.xyz/tags/GitHub/"/>
+    
+    <category term="Gitee" scheme="https://www.zbyfwq.xyz/tags/Gitee/"/>
+    
+    <category term="Pages" scheme="https://www.zbyfwq.xyz/tags/Pages/"/>
     
   </entry>
   
