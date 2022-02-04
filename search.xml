@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Github+Hexo+yelee搭建个性化博客</title>
+      <link href="/post/55b0541c.html"/>
+      <url>/post/55b0541c.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h1 id="搭建-开始"><a href="#搭建-开始" class="headerlink" title="搭建-开始"></a>搭建-开始</h1><p>近几年Github Pages来搭建Hexo博客非常火，因为免服务器和完全免费，并且非常稳定得到大家的青睐，不过访问速度较为慢，后面教大家怎么同步到Gitee Pages国内访问无压力</p><p>虽然说搭建很麻烦，但是配置完，就可以安心写文章</p><p>下面教大家怎么搭建</p><h1 id="Github-Pages和Hexo和Gitee-Pages是什么"><a href="#Github-Pages和Hexo和Gitee-Pages是什么" class="headerlink" title="Github Pages和Hexo和Gitee Pages是什么?"></a>Github Pages和Hexo和Gitee Pages是什么?</h1><h2 id="GitHub-Pages是什么？"><a href="#GitHub-Pages是什么？" class="headerlink" title="GitHub Pages是什么？"></a>GitHub Pages是什么？</h2><p><a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">About GitHub Pages - GitHub Docs</a></p><p>Github Pages通俗来讲就是Github官方免费托管的静态网页，给开发者提供或者个人提供一个静态网站</p><h2 id="Hexo是啥？"><a href="#Hexo是啥？" class="headerlink" title="Hexo是啥？"></a>Hexo是啥？</h2><p><strong><a href="https://hexo.io/zh-cn/">Hexo</a>官网</strong></p><p>Hexo是基于Node.js的静态博客，依赖少。支持Markdown写文，开源免费</p><p><a href="https://github.com/hexojs/hexo">hexojs/hexo: A fast, simple &amp; powerful blog framework, powered by Node.js. (github.com)</a>Hexo GitHub开源项目链接</p><h2 id="Gitee-Pages是啥？"><a href="#Gitee-Pages是啥？" class="headerlink" title="Gitee Pages是啥？"></a>Gitee Pages是啥？</h2><p>拿官方的话来说：</p><h4 id="Gitee-Pages-是一个免费的静态网页托管服务，您可以使用-Gitee-Pages-托管博客、项目官网等静态网页。如果您使用过-Github-Pages-那么您会很快上手使用-Gitee-的-Pages服务。目前-Gitee-Pages-支持-Jekyll、Hugo、Hexo编译静态资源。"><a href="#Gitee-Pages-是一个免费的静态网页托管服务，您可以使用-Gitee-Pages-托管博客、项目官网等静态网页。如果您使用过-Github-Pages-那么您会很快上手使用-Gitee-的-Pages服务。目前-Gitee-Pages-支持-Jekyll、Hugo、Hexo编译静态资源。" class="headerlink" title="Gitee Pages 是一个免费的静态网页托管服务，您可以使用 Gitee Pages 托管博客、项目官网等静态网页。如果您使用过 Github Pages 那么您会很快上手使用 Gitee 的 Pages服务。目前 Gitee Pages 支持 Jekyll、Hugo、Hexo编译静态资源。"></a>Gitee <code>Pages</code> 是一个免费的静态网页托管服务，您可以使用 Gitee <code>Pages</code> 托管博客、项目官网等静态网页。如果您使用过 <code>Github Pages</code> 那么您会很快上手使用 Gitee 的 <code>Pages</code>服务。目前 Gitee <code>Pages</code> 支持 Jekyll、Hugo、Hexo编译静态资源。</h4><p>也就是说Gitee Pages类似于Github的Pages，不过前者国内访问速度快，后者国内访问速度不理想，当然可以套cdn来提高速度，当然这也是后话</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+            <tag> Gitee </tag>
+            
+            <tag> Pages </tag>
+            
+            <tag> 网站 </tag>
+            
+            <tag> Yelee </tag>
+            
+            <tag> hexo themes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>重新修建网站</title>
       <link href="/post/4c6caf67.html"/>
       <url>/post/4c6caf67.html</url>
@@ -33,7 +62,7 @@
       <link href="/post/bbbce974.html"/>
       <url>/post/bbbce974.html</url>
       
-        <content type="html"><![CDATA[<h2 id="网站速度访问"><a href="#网站速度访问" class="headerlink" title="网站速度访问"></a>网站速度访问</h2><h3 id="国内"><a href="#国内" class="headerlink" title="国内"></a>国内</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">国内推荐使用 <span class="string">"https://maxzby.gitee.io"</span>访问</span><br><span class="line">国内使用Gitee Pages提供服务，访问效果极佳</span><br><span class="line">但是国内不是每天同步，（毕竟两个不一样的服务器，想较快看文章优先海外</span><br></pre></td></tr></tbody></table></figure><p>国内优点：<br>访问速度快 免服务器 稳定<br>缺点：<br>同步文章速度慢（手动同步</p><h3 id="海外"><a href="#海外" class="headerlink" title="海外"></a>海外</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">海外推荐使用 <span class="string">"maxzby.github.io"</span> 访问</span><br><span class="line">海外使用Github Pages提供服务，表现一般般</span><br><span class="line">秒同步文章</span><br></pre></td></tr></tbody></table></figure><p>海外优点：<br>秒同步文章 免服务器<br>缺点：<br>访问速度一般般 不稳定</p><h3 id="后文"><a href="#后文" class="headerlink" title="后文"></a>后文</h3><span id="more"></span><p><a href="https://maxzby.gitee.io/">国内（推荐）</a></p><p><a href="https://zbyfwq.xyz/">海外</a></p><p>这是第一次使用hexo发表文章<br>不是很完美</p><h1 id="2022-1-19-12-20"><a href="#2022-1-19-12-20" class="headerlink" title="2022/1/19 12:20"></a>2022/1/19 12:20</h1><p>网站重新修建完成，时隔2年</p><p>差点还忘记修建，陈旧的配置和停更以旧的主题</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="网站速度访问"><a href="#网站速度访问" class="headerlink" title="网站速度访问"></a>网站速度访问</h2><h3 id="国内"><a href="#国内" class="headerlink" title="国内"></a>国内</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">国内推荐使用 <span class="string">"https://maxzby.gitee.io"</span>访问</span><br><span class="line">国内使用Gitee Pages提供服务，访问效果极佳</span><br><span class="line">但是国内不是每天同步，（毕竟两个不一样的服务器，想较快看文章优先海外</span><br></pre></td></tr></tbody></table></figure><p>国内优点：<br>访问速度快 免服务器 稳定<br>缺点：<br>同步文章速度慢（手动同步</p><h3 id="海外"><a href="#海外" class="headerlink" title="海外"></a>海外</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">海外推荐使用 <span class="string">"https://maxzby.github.io"</span> 访问</span><br><span class="line">海外使用Github Pages提供服务，表现一般般</span><br><span class="line">秒同步文章</span><br></pre></td></tr></tbody></table></figure><p>海外优点：<br>秒同步文章 免服务器<br>缺点：<br>访问速度一般般 不稳定</p><h3 id="后文"><a href="#后文" class="headerlink" title="后文"></a>后文</h3><span id="more"></span><p><a href="https://maxzby.gitee.io/">国内（推荐）</a><br><del><a href="https://zbyfwq.xyz/">海外</a>已过期</del><br><a href="https://maxzby.github.io/">海外</a></p><p>这是第一次使用hexo发表文章<br>不是很完美</p><h1 id="2022-1-19-12-20"><a href="#2022-1-19-12-20" class="headerlink" title="2022/1/19 12:20"></a>2022/1/19 12:20</h1><p>网站重新修建完成，时隔2年</p><p>差点还忘记修建，陈旧的配置和停更以旧的主题</p>]]></content>
       
       
       
@@ -52,6 +81,17 @@
     
   
   
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
     
     <entry>
@@ -80,17 +120,6 @@
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
