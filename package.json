@@ -29,7 +29,7 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "^4.0.1",
     "hexo-theme-landscape": "^0.0.3",
-    "marked": "^4.0.10"
+    "marked": "^4.0.13"
   },
   "main": "index.js",
   "keywords": [],
