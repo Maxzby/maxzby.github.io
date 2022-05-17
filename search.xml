@@ -8,7 +8,7 @@
       <link href="/post/55b0541c.html"/>
       <url>/post/55b0541c.html</url>
       
-        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h1 id="搭建-开始"><a href="#搭建-开始" class="headerlink" title="搭建-开始"></a>搭建-开始</h1><p>近几年Github Pages来搭建Hexo博客非常火，因为免服务器和完全免费，并且非常稳定得到大家的青睐，不过访问速度较为慢，后面教大家怎么同步到Gitee Pages国内访问无压力</p><p>虽然说搭建很麻烦，但是配置完，就可以安心写文章</p><p>下面教大家怎么搭建</p><h2 id="Github-Pages和Hexo和Gitee-Pages是什么"><a href="#Github-Pages和Hexo和Gitee-Pages是什么" class="headerlink" title="Github Pages和Hexo和Gitee Pages是什么?"></a>Github Pages和Hexo和Gitee Pages是什么?</h2><h1 id="GitHub-Pages是什么？"><a href="#GitHub-Pages是什么？" class="headerlink" title="GitHub Pages是什么？"></a>GitHub Pages是什么？</h1><p><a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">About GitHub Pages - GitHub Docs</a></p><p>Github Pages通俗来讲就是Github官方免费托管的静态网页，给开发者提供或者个人提供一个静态网站</p><h1 id="Hexo是啥？"><a href="#Hexo是啥？" class="headerlink" title="Hexo是啥？"></a>Hexo是啥？</h1><p><strong><a href="https://hexo.io/zh-cn/">Hexo</a>官网</strong></p><p>Hexo是基于Node.js的静态博客，依赖少。支持Markdown写文，开源免费</p><p><a href="https://github.com/hexojs/hexo">hexojs/hexo: A fast, simple &amp; powerful blog framework, powered by Node.js. (github.com)</a>Hexo GitHub开源项目链接</p><h1 id="Gitee-Pages是啥？"><a href="#Gitee-Pages是啥？" class="headerlink" title="Gitee Pages是啥？"></a>Gitee Pages是啥？</h1><p>拿官方的话来说：</p><p><strong>Gitee <code>Pages</code> 是一个免费的静态网页托管服务，您可以使用 Gitee <code>Pages</code> 托管博客、项目官网等静态网页。如果您使用过 <code>Github Pages</code> 那么您会很快上手使用 Gitee 的 <code>Pages</code>服务。目前 Gitee <code>Pages</code> 支持 Jekyll、Hugo、Hexo编译静态资源。</strong></p><p>也就是说Gitee Pages类似于Github的Pages，不过前者国内访问速度快，后者国内访问速度不理想，当然可以套cdn来提高速度，当然这也是后话</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>近几年Github Pages来搭建Hexo博客非常火，因为免服务器和完全免费，并且非常稳定得到大家的青睐，不过访问速度较为慢，后面教大家怎么同步到Gitee Pages国内访问无压力</p><p>虽然说搭建很麻烦，但是配置完，就可以安心写文章</p><p>下面教大家怎么搭建</p><h1 id="搭建-开始"><a href="#搭建-开始" class="headerlink" title="搭建-开始"></a>搭建-开始</h1><h2 id="Github-Pages和Hexo和Gitee-Pages是什么"><a href="#Github-Pages和Hexo和Gitee-Pages是什么" class="headerlink" title="Github Pages和Hexo和Gitee Pages是什么?"></a>Github Pages和Hexo和Gitee Pages是什么?</h2><h3 id="GitHub-Pages是什么？"><a href="#GitHub-Pages是什么？" class="headerlink" title="GitHub Pages是什么？"></a>GitHub Pages是什么？</h3><p><a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">About GitHub Pages - GitHub Docs</a></p><p>Github Pages通俗来讲就是Github官方免费托管的静态网页，给开发者提供或者个人提供一个静态网站</p><h3 id="Hexo是啥？"><a href="#Hexo是啥？" class="headerlink" title="Hexo是啥？"></a>Hexo是啥？</h3><p><strong><a href="https://hexo.io/zh-cn/">Hexo</a>官网</strong></p><p>Hexo是基于Node.js的静态博客，依赖少。支持Markdown写文，开源免费</p><p><a href="https://github.com/hexojs/hexo">hexojs/hexo: A fast, simple &amp; powerful blog framework, powered by Node.js. (github.com)</a>Hexo GitHub开源项目链接</p><h3 id="Gitee-Pages是啥？"><a href="#Gitee-Pages是啥？" class="headerlink" title="Gitee Pages是啥？"></a>Gitee Pages是啥？</h3><p>拿官方的话来说：</p><p><strong>Gitee <code>Pages</code> 是一个免费的静态网页托管服务，您可以使用 Gitee <code>Pages</code> 托管博客、项目官网等静态网页。如果您使用过 <code>Github Pages</code> 那么您会很快上手使用 Gitee 的 <code>Pages</code>服务。目前 Gitee <code>Pages</code> 支持 Jekyll、Hugo、Hexo编译静态资源。</strong></p><p>也就是说Gitee Pages类似于Github的Pages，不过前者国内访问速度快，后者国内访问速度不理想，当然可以套cdn来提高速度，当然这也是后话</p>]]></content>
       
       
       
@@ -84,17 +84,6 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>404</title>
       <link href="/404.html"/>
       <url>/404.html</url>
@@ -120,6 +109,17 @@
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
