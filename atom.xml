@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>AutumnT Blog - 技术与生活</title>
+  <title>秋千AutumnT 博客 - 技术与生活</title>
   <icon>https://www.gravatar.com/avatar/9c6a0ae1ace1c136e102f9907d574de0</icon>
   <subtitle>科技技术生活</subtitle>
-  <link href="https://www.516700.xyz/atom.xml" rel="self"/>
+  <link href="https://516700.xyz/atom.xml" rel="self"/>
   
-  <link href="https://www.516700.xyz/"/>
+  <link href="https://516700.xyz/"/>
   <updated>2022-06-03T12:47:18.869Z</updated>
-  <id>https://www.516700.xyz/</id>
+  <id>https://516700.xyz/</id>
   
   <author>
     <name>AutumnT</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Github Hexo Yelee搭建个性化博客</title>
-    <link href="https://www.516700.xyz/post/55b0541c.html"/>
-    <id>https://www.516700.xyz/post/55b0541c.html</id>
+    <link href="https://516700.xyz/post/55b0541c.html"/>
+    <id>https://516700.xyz/post/55b0541c.html</id>
     <published>2022-01-20T05:23:24.000Z</published>
     <updated>2022-06-03T12:47:18.869Z</updated>
     
@@ -34,26 +34,26 @@
     
     
     
-    <category term="GitHub" scheme="https://www.516700.xyz/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://516700.xyz/tags/GitHub/"/>
     
-    <category term="Gitee" scheme="https://www.516700.xyz/tags/Gitee/"/>
+    <category term="Gitee" scheme="https://516700.xyz/tags/Gitee/"/>
     
-    <category term="Pages" scheme="https://www.516700.xyz/tags/Pages/"/>
+    <category term="Pages" scheme="https://516700.xyz/tags/Pages/"/>
     
-    <category term="网站" scheme="https://www.516700.xyz/tags/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://516700.xyz/tags/%E7%BD%91%E7%AB%99/"/>
     
-    <category term="Yelee" scheme="https://www.516700.xyz/tags/Yelee/"/>
+    <category term="Yelee" scheme="https://516700.xyz/tags/Yelee/"/>
     
-    <category term="Hexo Themes" scheme="https://www.516700.xyz/tags/Hexo-Themes/"/>
+    <category term="Hexo Themes" scheme="https://516700.xyz/tags/Hexo-Themes/"/>
     
-    <category term="Hexo" scheme="https://www.516700.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://516700.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>重新修建网站</title>
-    <link href="https://www.516700.xyz/post/4c6caf67.html"/>
-    <id>https://www.516700.xyz/post/4c6caf67.html</id>
+    <link href="https://516700.xyz/post/4c6caf67.html"/>
+    <id>https://516700.xyz/post/4c6caf67.html</id>
     <published>2022-01-18T11:08:43.000Z</published>
     <updated>2022-01-19T04:27:10.819Z</updated>
     
@@ -69,20 +69,20 @@
     
     
     
-    <category term="GitHub" scheme="https://www.516700.xyz/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://516700.xyz/tags/GitHub/"/>
     
-    <category term="Gitee" scheme="https://www.516700.xyz/tags/Gitee/"/>
+    <category term="Gitee" scheme="https://516700.xyz/tags/Gitee/"/>
     
-    <category term="Pages" scheme="https://www.516700.xyz/tags/Pages/"/>
+    <category term="Pages" scheme="https://516700.xyz/tags/Pages/"/>
     
-    <category term="网站" scheme="https://www.516700.xyz/tags/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://516700.xyz/tags/%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Pages and Gitee Pages</title>
-    <link href="https://www.516700.xyz/post/bbbce974.html"/>
-    <id>https://www.516700.xyz/post/bbbce974.html</id>
+    <link href="https://516700.xyz/post/bbbce974.html"/>
+    <id>https://516700.xyz/post/bbbce974.html</id>
     <published>2020-08-27T09:53:22.000Z</published>
     <updated>2022-05-17T10:23:15.091Z</updated>
     
@@ -100,11 +100,11 @@
     
     
     
-    <category term="GitHub" scheme="https://www.516700.xyz/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://516700.xyz/tags/GitHub/"/>
     
-    <category term="Gitee" scheme="https://www.516700.xyz/tags/Gitee/"/>
+    <category term="Gitee" scheme="https://516700.xyz/tags/Gitee/"/>
     
-    <category term="Pages" scheme="https://www.516700.xyz/tags/Pages/"/>
+    <category term="Pages" scheme="https://516700.xyz/tags/Pages/"/>
     
   </entry>
   
